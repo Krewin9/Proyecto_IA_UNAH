@@ -1,0 +1,30 @@
+Objetivo
+
+Desarrollar un sistema basado en Inteligencia Artificial capaz de evaluar el riesgo crediticio de un solicitante mediante un agente conversacional, 
+un modelo de Machine Learning y una API desarrollada en FastAPI.
+
+
+Modelo de Machine Learning
+
+
+Aprender patrones históricos del dataset para clasificar una solicitud como:
+
+0 - Riesgo Bajo
+
+1 - Riesgo Medio
+
+2 - Riesgo Alto
+
+
+API
+
+
+Recibir los datos del agente.
+
+Cargar el modelo.
+
+Realizar la predicción.
+
+Responder.
+
+

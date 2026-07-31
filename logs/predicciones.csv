@@ -1,0 +1,5 @@
+fecha_hora,loan_amnt,term,purpose,annual_inc,verification_status,emp_length,home_ownership,dti,fico_range_low,inq_last_6mths,total_acc,mort_acc,pub_rec,delinq_2yrs,pub_rec_bankruptcies,codigo_riesgo,riesgo
+2026-07-29 23:20:07,5000.0,36 months,car,25000.0,Verified,10+ years,RENT,18.5,680.0,1.0,18.0,0.0,0.0,0.0,0.0,2,Riesgo Alto
+2026-07-30 18:33:42,40000.0,36 months,credit_card,20000.0,Verified,5 years,OWN,50.0,500.0,1.0,2.0,0.0,0.0,1.0,0.0,2,Riesgo Alto
+2026-07-30 19:01:40,50000.0,60 months,house,25000.0,Verified,5 years,OWN,30.0,800.0,0.0,1.0,0.0,0.0,0.0,0.0,0,Riesgo Bajo
+2026-07-30 19:17:19,200000.0,36 months,house,20000.0,Verified,3 years,OWN,36.0,800.0,1.0,1.0,0.0,0.0,0.0,0.0,1,Riesgo Medio
